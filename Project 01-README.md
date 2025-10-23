@@ -5,7 +5,7 @@
 ---
 
 ## 📝 Project Overview
-A beginner-friendly ML project analysing  Titanic passenger survival. Focuses on data exploration and cleaning.
+A Comprehensive ML project analysing  Titanic passenger survival. Focuses on data exploration and cleaning.
 ---
 
 ## ⚡ Key Steps
@@ -17,10 +17,10 @@ A beginner-friendly ML project analysing  Titanic passenger survival. Focuses on
 ---
 
 ## 📊 Results
-- Basic Data Manipulation
-- Basic Data Analysis
-- Basic Data cleaning
-- Basic visualizations included in the notebook  
+- Data Manipulation
+- Data Analysis
+- Data cleaning
+- Data visualizations included in the notebook  
 ---
 
 ## 🛠 Tools
